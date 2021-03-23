@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Android Test</string>
+    <string name="username">User name</string>
+    <string name="txt_username">Username</string>
+    <string name="name">Name</string>
+    <string name="txt_followers">Followers : </string>
+    <string name="txt_following">Following : </string>
+    <string name="txt_location">Location : </string>
+    <string name="txt_company">Company : </string>
+    <string name="txt_blog">Blog : </string>
+    <string name="notes"> Add a note : </string>
+    <string name="hintnotes">Notes</string>
+    <string name="savebutton">Save</string>
+    <string name="network_msg">Please check your network connection!!</string>
+    <string name="networkdialod">Network Error</string>
+    <string name="ok">Ok</string>
+    <string name="search_title">Search</string>
+    <string name="color_theme">Color Theme</string>
+    <string name="data_is_not_avaliable">Data is not avaliable for the user</string>
+    <string name="alert">Alert</string>
+    <string name="Notes">Update successfully!</string>
+</resources>
